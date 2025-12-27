@@ -29,7 +29,7 @@ This project helps stakeholders make **data-driven decisions** by transforming r
 | Tool | Purpose |
 |-----|--------|
 | 🧮 **Excel / CSV** | Data cleaning & preparation |
-| 📊 **Power BI / Tableau** | Dashboard creation |
+| 📊 **Power BI** | Dashboard creation |
 | 🐍 **Python** | EDA & preprocessing |
 | 📁 **GitHub** | Version control & sharing |
 
