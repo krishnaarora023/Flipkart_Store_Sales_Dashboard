@@ -1,4 +1,5 @@
 # 🛒 Flipkart Store Sales Dashboard 📊  
+
 ### 📈 Data Visualization & Business Insights Project  
 
 
@@ -6,13 +7,15 @@
 
 ---
 
-## 📌 Project Overview  
+## 📌 Project Overview 
+
 The **Flipkart Store Sales Dashboard** is a **data visualization project** created to analyze sales performance, customer behavior, and product trends using **interactive dashboards**.  
 This project helps stakeholders make **data-driven decisions** by transforming raw sales data into meaningful insights.
 
 ---
 
 ## 🎯 Objectives  
+
 ✔ Analyze overall sales performance  
 ✔ Identify top-performing products & categories  
 ✔ Understand customer purchase behavior  
@@ -32,7 +35,8 @@ This project helps stakeholders make **data-driven decisions** by transforming r
 
 ---
 
-## 📂 Dataset Information  
+## 📂 Dataset Information 
+
 The dataset contains Flipkart store sales data including:
 
 - 🆔 Order ID  
@@ -50,12 +54,14 @@ The dataset contains Flipkart store sales data including:
 ## 📊 Dashboard Features  
 
 ✨ **Key Performance Indicators (KPIs)**  
+
 - Total Sales 💵  
 - Total Profit 📈  
 - Number of Orders 🧾  
 - Average Discount 📉  
 
 ✨ **Visualizations Included**  
+
 - 📊 Sales by Category (Bar Chart)  
 - 🍩 Sales Split (Donut Chart)  
 - 📈 Monthly Sales Trend (Line Chart)  
@@ -101,6 +107,7 @@ git clone https://github.com/krishnaarora023/Flipkart_Store_Sales_Dashboard.git
 ---
 
 ## 📌 Future Improvements
+
 🔹 Add predictive sales analysis
 🔹 Integrate real-time data
 🔹 Build customer segmentation models
@@ -108,13 +115,15 @@ git clone https://github.com/krishnaarora023/Flipkart_Store_Sales_Dashboard.git
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome!
 Feel free to fork, raise issues, or submit pull requests.
 
 ---
 
 ## 👤 Author
+
 Krishna Arora
 🎓 Data Analytics | Business Intelligence
 🔗 GitHub: krishnaarora023
@@ -122,6 +131,7 @@ Krishna Arora
 ---
 
 ## ⭐ Support
+
 If you found this project helpful, don’t forget to give it a ⭐ on GitHub!
 Happy Learning 🚀📊
 
